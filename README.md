@@ -29,7 +29,3 @@ Contributions are welcome! If you find any issues or want to improve the app, fe
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
