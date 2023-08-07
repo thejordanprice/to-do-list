@@ -18,7 +18,7 @@ A simple single-page web application for managing a to-do list. This app allows 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/to-do-list-app.git`
+1. Clone the repository: `git clone https://github.com/thejordanprice/to-do-list`
 2. Open `index.html` in your web browser.
 3. Use the provided form to add new tasks, mark tasks as complete, edit tasks, and delete tasks.
 
